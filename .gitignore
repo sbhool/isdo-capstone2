@@ -1,0 +1,4 @@
+labenv/
+data/chroma_db/
+__pycache__/
+.env
