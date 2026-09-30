@@ -1,4 +1,8 @@
-labenv/
-data/chroma_db/
-__pycache__/
+@"
 .env
+labenv/
+__pycache__/
+*.pyc
+logs/
+**/chroma_db/
+"@ | Out-File -Encoding utf8 .gitignore
